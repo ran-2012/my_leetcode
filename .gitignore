@@ -1,0 +1,9 @@
+
+.vs
+.idea
+
+Debug
+Release
+
+./*/Debug
+./*/Release
