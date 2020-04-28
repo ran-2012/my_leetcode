@@ -1,0 +1,27 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "charset": "utf8",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "inlineSourceMap": false,
+        "newLine": "LF",
+        "pretty": true,
+        "removeComments": false,
+        "skipDefaultLibCheck": true,
+        "strictPropertyInitialization": false,
+        "strictBindCallApply": true,
+        "strictFunctionTypes": true,
+        "target": "es2019",
+        "types": [
+            "node"
+        ]
+    },
+    "include": [
+        "./**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

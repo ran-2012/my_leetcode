@@ -7,3 +7,6 @@ Release
 
 ./*/Debug
 ./*/Release
+
+*.js
+*.js.map
