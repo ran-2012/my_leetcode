@@ -76,10 +76,8 @@ const search = function (nums: number[], target: number) {
     return pos;
 };
 
-function main() {
+{
     const nums = [3, 1];
     // console.log(search(nums, 3));
     console.log(search(nums, 0));
 }
-
-main();

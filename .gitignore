@@ -1,6 +1,7 @@
 
 .vs
 .idea
+node_modules
 
 Debug
 Release

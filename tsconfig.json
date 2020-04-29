@@ -6,6 +6,8 @@
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "inlineSourceMap": false,
+        "module": "CommonJS",
+        "moduleResolution": "Node",
         "newLine": "LF",
         "pretty": true,
         "removeComments": false,
