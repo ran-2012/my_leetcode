@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sum_of_two_number", "sum_of
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "add_two_number", "add_two_number\add_two_number.vcxproj", "{E6A2C7E9-2E67-4628-BBE0-6919D4415183}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jump_gameII", "jump_gameII\Project1\Project1.vcxproj", "{DEBC1A90-E4FD-406B-A382-653D47EE848A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jump_gameII", "jump_gameII\Project1.vcxproj", "{DEBC1A90-E4FD-406B-A382-653D47EE848A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
